@@ -1,0 +1,4 @@
+Paracetamol|100|5.99|2025-12-31|Painkiller
+Cetirizine|80|3.25|2025-05-30|Allergy
+Ibuprofen|50|8.99|2025-06-30|Painkiller
+Amoxicillin|30|15.50|2023-11-15|Antibiotic

@@ -1,0 +1,6 @@
+Invalid phone number. Please enter a valid 10-digit phone number.
+Medicine not found.
+Invalid quantity. Please enter a valid number.
+Invalid date format. Please enter a valid date (YYYY-MM-DD).
+Invalid quantity. Please enter a valid number.
+Invalid date format. Please enter a valid date (YYYY-MM-DD).
